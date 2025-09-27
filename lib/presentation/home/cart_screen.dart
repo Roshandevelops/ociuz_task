@@ -121,7 +121,7 @@ class CartScreen extends StatelessWidget {
                           ),
                         );
                       },
-                      buttonText: "CHECKOUT",
+                      buttonText: "CHECKOUt",
                     ),
                   ),
                   const SizedBox(
